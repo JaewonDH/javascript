@@ -1,0 +1,8 @@
+{
+  "name": "javascript-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JaewonDH/javascript.git",
+  "author": "이재원",
+  "license": "MIT"
+}
